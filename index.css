@@ -185,4 +185,6 @@ button:active {
 
 #reset:active {
     transform: translateY(3px);
+    border-bottom: 2px solid;
+
 }
